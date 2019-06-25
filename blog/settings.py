@@ -25,7 +25,7 @@ SECRET_KEY = 'lac=5dvg%y(d2h#re+%_mer9=ubzbq8^e-xn57ek6zalh+bu$g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-blog-eddiebrett.c9users.io']
+ALLOWED_HOSTS = ['085e21186c774f6589051b848dc7d229.vfs.cloud9.eu-west-1.amazonaws.com']
 
 
 # Application definition
